@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/>
-
-### 👋 Hey there! I'm **Amr**  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+Coders;I'm+Amr+Khaled&duration=3000" alt="Typing SVG" />
+  </a>
+</div>
+  
 🎓 Data Engineer • 📊 ETL | Data Pipelines | Power BI  
 🚀 Completed a full data engineering project and currently developing automated **ETL and Power BI reporting pipelines**.
 
@@ -18,8 +21,6 @@
 # 🛠️ **Tech Stack & Tools**
 
 ### 🧰 **Data Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
@@ -50,7 +51,19 @@
 - 🐧 Linux explorer  
 - 🎮 Gaming helps me relax — especially tactical shooters like Battlefield.
 - 💬 Happy to talk about **data pipelines, analytics, and technical problem-solving**.
+---
 
+<div align="center">
+
+## 📬 Connect with Me
+<a href="https://www.linkedin.com/in/amr-khaled-61121626a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:amrkhaled123555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 ---
 <div align="center">
 
