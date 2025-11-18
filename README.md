@@ -70,8 +70,7 @@
 ## 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmrKhaled74&show_icons=true&theme=tokyonight" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaled74&layout=compact&theme=tokyonight" height="160">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrKhaled74&layout=compact&theme=tokyonight&hide=C%23" height="160">
 
 <br>
 
